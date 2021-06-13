@@ -33,7 +33,8 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
-const {song2, song4, song, job, partner} = muppet;
+const {job, partner} = nestedMuppet;
+const {song2, song4} = nestedMuppet.theMuppetMovie;
 
 
 // Strings
