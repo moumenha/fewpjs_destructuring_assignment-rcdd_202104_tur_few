@@ -1,8 +1,8 @@
 const farmAnimals = 'cow horse sheep pig chicken';
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ');
 const [bessie, sheep, dolly, babe, little] = farmAnimals.split(' ');
-const [blackAndWhite, black, pink] = farmAnimals.split(' ');
 const colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'];
+const [blackAndWhite, black, pink] = colors;
 
 const muppet = {
   muppetName: 'Miss Piggy',
