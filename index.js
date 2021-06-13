@@ -34,7 +34,7 @@ const nestedMuppet = {
 };
 
 const {nestedJob, nestedPartner} = nestedMuppet;
-const {song2, song4} = nestedMuppet.theMuppetMovie;
+const {song2, song4} = nestedMuppet.album.theMuppetMovie;
 
 
 // Strings
