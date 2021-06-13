@@ -33,7 +33,7 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
-const {job, partner} = nestedMuppet;
+const {nestedJob, nestedPartner} = nestedMuppet;
 const {song2, song4} = nestedMuppet.theMuppetMovie;
 
 
